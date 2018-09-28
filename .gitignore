@@ -16,7 +16,7 @@ erl_crash.dump
 
 # Also ignore archive artifacts (built via "mix archive.build").
 *.ez
-
+.idea
 app_tree.dot
 app_tree.png
 deps_tree.dot
